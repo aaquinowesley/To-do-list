@@ -7,7 +7,11 @@
   </div>
   <div> 
    
-   ## 🤔 Como usar ?
+ ## Link Do Projeto
+    
+<a href="https://aaquinowesley.github.io/To-do-list/">Clique Aqui!</a>
+    
+## 🤔 Como usar ?
 
 ```
 Clone o projeto com $ git clone https://github.com/nome_do_usuario/repositorio.git
